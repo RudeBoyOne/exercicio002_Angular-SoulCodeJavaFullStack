@@ -1,4 +1,12 @@
-# Exer002Contador
+# Exercício-002 Angular Contador SoulCode Java FullStack
+
+<br>
+
+![exemplo de contador em gif](./src/assets/img/exemploGif.gif)
+
+<br>
+
+## Informações Angular 👇
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 

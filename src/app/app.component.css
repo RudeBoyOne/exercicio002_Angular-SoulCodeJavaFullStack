@@ -1,0 +1,23 @@
+div{
+    width: 50VW;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button{
+    font-size: 50px;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+#mais{
+    background-color: #119911;
+}
+
+p{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+}
